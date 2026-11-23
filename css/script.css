@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+
+}
+:root{
+    --primaria-color: #296CF2;
+    --secundaria-color: #113059;
+    --background: #EBEEF2;
+    --branco: #F4F7FC;
+    --primaria-extra: #8676D0;
+    --secundaria-extra: #F55F6F;
+}
+.escuro{
+
+}
+header{
+    text-align: center;
+}
